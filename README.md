@@ -1,7 +1,9 @@
 ### Billed-App
 Goals for the project :
 -1 Being able to manage a project already made.
+
 -2 From a document "https://www.notion.so/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90" manage to find and resolve bugs.
+
 -3 Implementing test with jest.
 
 
